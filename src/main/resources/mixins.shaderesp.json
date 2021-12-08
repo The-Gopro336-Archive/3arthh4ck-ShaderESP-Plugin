@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.earth.shaderesp.mixin",
+  "refmap": "mixins.shaderesp.refmap.json",
+  "mixins": [
+    "minecraft.MixinEntityRenderer",
+    "minecraft.MixinLayerArmorBase",
+    "minecraft.MixinRenderItem",
+    "optifine.MixinConfig"
+  ]
+}

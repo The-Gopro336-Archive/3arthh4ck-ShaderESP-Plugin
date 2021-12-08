@@ -1,0 +1,5 @@
+{
+  "name": "ShaderESP",
+  "mainClass": "me.earth.shaderesp.ShaderESPPlugin",
+  "mixinConfig": "mixins.shaderesp.json"
+}
